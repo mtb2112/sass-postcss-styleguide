@@ -1,0 +1,25 @@
+/*
+@styleguide
+
+@title Button
+
+Use the button classes on and `<a>`, `<button>`, `<input>` elements.
+
+<button class="button">Red Button</button>
+
+    <button class="button">Red Button</button>
+
+<button class="button">Red Button</button>
+
+    <button class="button">Red Button</button>
+*/
+.button {
+  background-color: red;
+  color: white;
+  padding: 10px 20px;
+  border: 1px solid white;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 16px; }
+  .button:hover {
+    background-color: #990000; }
